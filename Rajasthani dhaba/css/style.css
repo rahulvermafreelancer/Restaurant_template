@@ -1,0 +1,25 @@
+.nav-wrapper {
+    background-color: darkcyan;
+}
+
+.slide .indicators .indicator-item.active {
+    background-color: darkcyan;
+}
+
+.move {
+    margin-top: 60px;
+    margin-bottom: 20px;
+}
+
+.parallax-container {
+    min-height: 280px;
+    height: auto;
+}
+
+.icon-food {
+    color: darkcyan;
+}
+
+.footer-one {
+    background-color: rgb(2, 92, 92);
+}
